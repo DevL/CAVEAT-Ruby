@@ -4,7 +4,7 @@
 
 > What is CAVEAT?
 
-CAVEAT is a virtual machine for running a yet unnamed bytecode. It's part of the ClusterFuck concept where the various instructions in fact can be distributed over multiple machines. Communication between CAVEAT machines is to be performed using a yet unnamed protocol. A CAVEAT instance using an instruction provided by another CAVEAT instance is referred to as 'CAVEAT emptor'. The instance providing the instruction is in turn referred to as 'CAVEAT venditor'.
+CAVEAT is a virtual machine for running a yet unnamed bytecode. It's part of the [ClusterFuck](https://github.com/DevL/ClusterFuck) concept where the various instructions in fact can be distributed over multiple machines. Communication between CAVEAT machines is to be performed using a yet unnamed protocol. A CAVEAT instance using an instruction provided by another CAVEAT instance is referred to as 'CAVEAT emptor'. The instance providing the instruction is in turn referred to as 'CAVEAT venditor'.
 
 Obviously, a CAVEAT instance can provide an instruction to itself, just like one technically can sell things to oneself given certain circumstances. In such a situation, sales tax might apply.
 
