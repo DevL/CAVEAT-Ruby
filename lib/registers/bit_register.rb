@@ -1,7 +1,8 @@
 module Registers
   class BitRegister
-    def initialize(bits)
+    def initialize(bits, initial_value: 0)
       @bits = bits
+      set initial_value
     end
 
     def set(value)
