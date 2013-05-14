@@ -1,7 +1,7 @@
 require 'spec_helper'
 
 describe Instructions::Add do
-  it 'adds two registers and stores the result in a third' do
+  it "adds the unsigned values of two registers and stores the result in a third" do
     registers = FakeRegisters.new(r0: 1, r1: 2)
     expected = 1 + 2
 
