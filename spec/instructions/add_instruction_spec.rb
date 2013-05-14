@@ -1,5 +1,4 @@
 require 'spec_helper'
-require 'instructions/caveat/add_instruction'
 
 describe CAVEAT::AddInstruction do
   it 'adds two registers and stores the result in a third' do

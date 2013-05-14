@@ -1,5 +1,4 @@
 require 'spec_helper'
-require 'registers/byte_register'
 
 describe Registers::ByteRegister do
   describe '#set' do

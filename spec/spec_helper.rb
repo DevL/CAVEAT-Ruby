@@ -1,3 +1,5 @@
+require 'caveat'
+
 class FakeRegisters
   attr_accessor :r0, :r1, :r2, :r3
 
